@@ -1,0 +1,4 @@
+---
+layout: gallery
+type: gallery
+---
