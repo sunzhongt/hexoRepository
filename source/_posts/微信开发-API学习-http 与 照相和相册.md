@@ -1,9 +1,9 @@
 ---
 title: 微信开发-API学习
 date: 2018-10-11
-cover: https://img02.sogoucdn.com/app/a/100520093/b692ca88cf40622d-c4c351c548f54192-9b31be1c6e33db79adc5f293470100b2.jpg
-categories: categories
-tags: 微信开发-API学习
+cover: http://img4.imgtn.bdimg.com/it/u=1119919285,3827027875&fm=26&gp=0.jpg
+categories: 微信开发
+tags: 微信开发
 ---
 
 #### 微信开发-API学习

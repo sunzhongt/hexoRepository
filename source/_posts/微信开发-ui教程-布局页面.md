@@ -1,8 +1,16 @@
+---
+title: 微信开发-ui教程-布局页面
+date: 2018-12-02
+cover: http://img4.imgtn.bdimg.com/it/u=1119919285,3827027875&fm=26&gp=0.jpg
+categories: 微信开发
+tags: 微信开发
+---
+
 #### ui教程-布局页面
 
 flex布局
 
-flex==容器==的属性
+flex容器的属性
 - flex-direction决定元素的排列方向
 - flex-wrap决定元素如何换行
 - flex-flow是 flex-wrap 和 flex-direction 的简写

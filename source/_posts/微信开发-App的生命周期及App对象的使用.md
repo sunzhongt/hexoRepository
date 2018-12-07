@@ -1,3 +1,12 @@
+---
+title: 微信开发-App的生命周期及App对象的使用
+date: 2018-12-01
+cover: http://img4.imgtn.bdimg.com/it/u=1119919285,3827027875&fm=26&gp=0.jpg
+categories: 微信开发
+tags: 微信开发 
+---
+
+
 #### 微信开发-App的生命周期及App对象的使用
 
 - [App的生命周期]()
